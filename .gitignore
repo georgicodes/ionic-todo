@@ -1,0 +1,10 @@
+node_modules/
+platforms
+hooks
+merges
+config.xml
+gulpfile.js
+ionic.project
+package.json
+plugins
+scss
